@@ -47,8 +47,8 @@ got **2nd place in a CTF hackathon** so i must be doing something right.
 | project | description | link |
 |---------|-------------|------|
 | **AEGIS** | world info platform — aggregates a lot of data | [live](https://aegis-main1.vercel.app/) · [source](https://github.com/Suraware/AEGIS-main1) |
-| **Suraware** | ransomware utilising ChaCha20 and ECIES encryption | [source](https://github.com/Suraware/Suraware) |
-| **Portfolio** | glassmorphism design with animated effects | [live](https://sura-portfolio.surge.sh) · [source](https://github.com/Suraware/portfolio) |
+| **SuraCrypt** | ransomware utilising ChaCha20 and ECIES encryption | [source](https://github.com/Suraware/SuraCrypt) |
+| **Portfolio** | glassmorphism design with animated effects | [live](https://sura-portfolio.surge.sh) · [source](https://github.com/Suraware/suraware) |
 
 ---
 
