@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, i'm **sura**
+# hey, i'm **Asura**
 
 <div style="position: relative; display: inline-block;">
   <div style="width: 100px; height: 100px; border-radius: 50%; background: conic-gradient(from 0deg, #bc86ca, #a29bfe, #22c55e, #bc86ca); animation: spinRing 4s linear infinite; padding: 3px;">
@@ -21,6 +21,7 @@
 
 i write code and break stuff. mostly **C++**, **Python**, **Lua**, and **HTML**.
 not an expert yet but i'm getting there.
+CYBASECURITIIIII
 
 **cybersecurity** is where i spend most of my time.
 got **2nd place in a CTF hackathon** so i must be doing something right.
@@ -60,8 +61,5 @@ got **2nd place in a CTF hackathon** so i must be doing something right.
 ---
 
 <div align="center">
-
-![sura's github stats](https://github-readme-stats.vercel.app/api?username=Suraware&show_icons=true&theme=radical&hide_border=true)
-![sura's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraware&layout=compact&theme=radical&hide_border=true)
 
 </div>
